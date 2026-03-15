@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+out/
+bin/
+obj/
+
+# Compiled objects
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# OS files
+Thumbs.db
+.DS_Store
